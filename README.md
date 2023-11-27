@@ -17,3 +17,5 @@ THis is *especailly important beacuse
 ## Interpreting Visualizations 
 
 ## Discussion Summary
+
+![image](https://github.com/KarsenW18/mgt250test/assets/152214887/6c1a9f79-606c-4192-8045-1e7e3bdc1d26)
